@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Biri-Biri",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-04T15:16:38.892161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Biri-Biri",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_Biri-Biri_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Biri-Biri (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_Biri-Biri_(English_Version)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Biri-Biri (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/03_Biri-Biri_(English_Version)_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Biri‐Biri (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_Biri‐Biri_(English_Version)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Biri‐Biri",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_Biri‐Biri_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Biri Biri",
+      "artist": "Upsurt",
+      "has_synced": false,
+      "path": "select/06_Biri_Biri_Upsurt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Biri Biri",
+      "artist": "Fallou Dieng",
+      "has_synced": false,
+      "path": "select/07_Biri_Biri_Fallou_Dieng.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Biri Biri Lirical (feat. Kamada)",
+      "artist": "Santoz",
+      "has_synced": true,
+      "path": "select/08_Biri_Biri_Lirical_(feat._Kamada)_Santoz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Biri Biri Lirical",
+      "artist": "Santoz",
+      "has_synced": true,
+      "path": "select/09_Biri_Biri_Lirical_Santoz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Biri-Biri (instrumental)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/10_Biri-Biri_(instrumental)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Biri‐Biri",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_Biri‐Biri_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Biri-Biri (English Version)",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/12_Biri-Biri_(English_Version)_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Biri-Biri",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/13_Biri-Biri_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Biri-Biri",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Biri-Biri_YOASOBI.txt"
+    }
+  ]
+}
